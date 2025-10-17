@@ -38,6 +38,7 @@ source venv/bin/activate
 
 ```
 ### Paso 4 
+---
 Agora com o ambiente ativado você pode executar o programa main.py para você que é desenvolvedor pode executar no visual studio code. 
 mais se quiser pode executar o Script direto no cmd dentro da pasta do projeto com o comando abaixo
 
@@ -49,3 +50,8 @@ python main.py
 ```
 python3 main.py
 ```
+### Paso 5
+---
+agora com o programa rodando você vai talvez veja seguinte tela como mostrado abaixo
+copie e cole a url do video que deseja baixar (seu video vai ficar salvo na pasta downloads)
+![Tela de url](/assets/input_image.png)
